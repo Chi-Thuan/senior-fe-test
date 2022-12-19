@@ -36,7 +36,7 @@
 3. All action just available with Ui and without effect but need keep in local state for show again when reload page
 
 ### Deadline of this task
-- Need response this task in 10 days.
+- Need response this task in 7 days.
 
 
 ### Note: 
