@@ -31,10 +31,8 @@
 1. Build UI & all action of Studio on browser - [Video Editor](https://www.veed.io/)
 2. Follow [Video](https://longtest-media.s3.us-east-2.amazonaws.com/video_editor_on_web.mov) to build UI and focus on some action\
   2.1 Choose video to load in stage\
-  2.2 Add watermark with Text & Images
-  2.3 With Text then include font(size, color, style), position, size & time show/hide in video
-  2.4 With Images then include size, position & time show/hide in video
-  2.5 Need show all elements in Time Frame(Frameset) to control with drop & drag
+  2.2 Add watermark with Text & Images and allow drop & drag to move it on video\
+  2.5 Need show all elements in Time Frame(Frameset) to control with drop & drag\
 3. All action just available with Ui and without effect but need keep in local state for show again when reload page
 
 ### Deadline of this task
