@@ -32,7 +32,7 @@
 2. Follow [Video](https://longtest-media.s3.us-east-2.amazonaws.com/video_editor_on_web.mov) to build UI and focus on some action\
   2.1 Choose video to load in stage\
   2.2 Add watermark with Text & Images and allow drop & drag to move it on video\
-  2.3 Need show all elements in Time Frame(Frameset) to control with drop & drag\
+  2.3 Need show all elements in Time Frame(Frameset) to control with drop & drag
 3. All action just available with Ui and without effect but need keep in local state for show again when reload page
 
 ### Deadline of this task
