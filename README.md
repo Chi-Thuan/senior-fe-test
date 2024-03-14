@@ -3,7 +3,7 @@
 1. Build Web Widget
 2. Build page to load all content from APIs and display on UI but show it in any site by embed js code
 3. When load data then add setting such as font(size, color, etc), background, color, etc and some tracking point, follow this and implement test
-- [Follow Video](https://longtest-media.s3.us-east-2.amazonaws.com/video_demo_test_1_widget_web.mov), [image](https://longtest-media.s3.us-east-2.amazonaws.com/Screen+Shot+2022-12-18+at+9.36.49+PM.png) and build it again, for data can mockup with json in local.
+- [Follow Video](https://github.com/themartec/senior-fe-test/assets/99379876/d8fad239-1d62-4e6f-8189-83060a14c80c) and build it again, for data can mockup with json in local.
 - [Link Web Demo](https://www.uber.com/us/en/careers/teams/university/)
 
 ### Deadline of this task
@@ -29,7 +29,7 @@
 
 ## Test 4
 1. Build UI & all action of Studio on browser - [Video Editor](https://www.veed.io/)
-2. Follow [Video](https://longtest-media.s3.us-east-2.amazonaws.com/video_editor_on_web.mov) to build UI and focus on some action\
+2. Follow [Video](https://github.com/themartec/senior-fe-test/assets/99379876/cf008e9c-976e-4c13-8301-22434d61e676) to build UI and focus on some action\
   2.1 Choose video to load in stage\
   2.2 Add watermark with Text & Images and allow drop & drag to move it on video\
   2.3 Need show all elements in Time Frame(Frameset) to control with drop & drag
