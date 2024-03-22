@@ -1,0 +1,1 @@
+export const GLOBAL_SET_USER = "GLOBAL_SET_USER";

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Lusha clone",
+  "version": "1.0",
+  "description": "",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "tabs", "activeTab"],
+  "host_permissions": ["https://*/*", "http://*/*"],
+  "icons": {
+    "16": "ic_extension.png",
+    "32": "ic_extension.png"
+  }
+}
